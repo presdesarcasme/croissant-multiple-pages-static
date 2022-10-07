@@ -4,6 +4,9 @@ body {
 
 h1 {
   text-align: center;
+  margin-top: 20px;
+  margin-bottom: 50px;
+  font-family: Georgia, "Times New Roman", Times, serif;
 }
 
 P {
@@ -11,9 +14,4 @@ P {
   font-size: 16px;
   font-style: italic;
   padding: 20px 150px;
-}
-
-#pages {
-  display: block;
-  margin: 0;
 }
